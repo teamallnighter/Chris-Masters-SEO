@@ -2,9 +2,23 @@
 
 Notes from an online [course](https://www.udemy.com/course/learn-seo) that I took on SEO
 
-[PDF](/seo.pdf)
+[PDF](https://github.com/teamallnighter/Chris-Masters-SEO/blob/main/seo.pdf)
 
 [You Tube Video From Google](https://www.youtube.com/watch?v=BNHR6IQJGZs)
+
+- [Chris Masters SEO](#chris-masters-seo)
+  * [Crawl Friendliness](#crawl-friendliness)
+    + [Keep important content in plain HTML](#keep-important-content-in-plain-html)
+  * [Use Images](#use-images)
+    + [Testing Speed](#testing-speed)
+    + [Testing Mobile Friendliness](#testing-mobile-friendliness)
+  * [Crawl Budget](#crawl-budget)
+  * [Choosing Domains](#choosing-domains)
+  * [Setting up architecture](#setting-up-architecture)
+    + [Internal Strings](#internal-strings)
+  * [Key Words](#key-words)
+    + [Choosing Keywords](#choosing-keywords)
+
 
 ## Crawl Friendliness
 
@@ -70,4 +84,10 @@ __when checking google use igncognito mode__
 ## Key Words 
 
 ### Choosing Keywords 
+
+* Should be relevant to your objective
+* attract targeted audience 
+* look into search volume 
+* Check out competition
+
 
