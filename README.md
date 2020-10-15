@@ -6,6 +6,33 @@ Notes from an online [course](https://www.udemy.com/course/learn-seo) that I too
 
 [You Tube Video From Google](https://www.youtube.com/watch?v=BNHR6IQJGZs)
 
+- [Chris Masters SEO](#chris-masters-seo)
+  * [Crawl Friendliness](#crawl-friendliness)
+    + [Keep important content in plain HTML](#keep-important-content-in-plain-html)
+  * [Use Images](#use-images)
+    + [Testing Speed](#testing-speed)
+    + [Testing Mobile Friendliness](#testing-mobile-friendliness)
+  * [Crawl Budget](#crawl-budget)
+  * [Choosing Domains](#choosing-domains)
+  * [Setting up architecture](#setting-up-architecture)
+    + [Internal Strings](#internal-strings)
+  * [Key Words](#key-words)
+    + [Choosing Keywords](#choosing-keywords)
+      - [Keyword Tools](#keyword-tools)
+        * [Free](#free)
+        * [Paid](#paid)
+  * [Page Templates](#page-templates)
+    + [Title Tage](#title-tage)
+    + [Heading Tags](#heading-tags)
+    + [Body Text](#body-text)
+    + [Meta Description](#meta-description)
+    + [Semantic HTML](#semantic-html)
+  * [Structured Data](#structured-data)
+  * [New sites and indexing](#new-sites-and-indexing)
+    + [Site Maps](#site-maps)
+    + [Use Consoles](#use-consoles)
+    + [Use Analytics](#use-analytics)
+
 ## Crawl Friendliness
 
 __when checking google use igncognito mode__
@@ -181,4 +208,38 @@ Indicate the heading of the content
 [json-ld.org](https://json-ld.org)
 
 [Json-ld Playground](https://json-ld.org/playground)
+
+## New sites and indexing 
+
+### Site Maps 
+
+* Submitting an XML site map will ensure your site is indexed quickly 
+
+### Use Consoles 
+
+
+* Create a goole search console account
+* Create a big webmasters tool account upload your site map
+
+### Use Analytics 
+
+* Use Google analytics 
+
+## Additional Rescources 
+
+Screaming Frog
+
+Deep crawl 
+
+Ahrefs
+
+Semrush
+
+Mez Blog
+
+Google Webmaster Central
+
+Google Community 
+
+
 
