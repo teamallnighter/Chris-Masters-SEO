@@ -37,4 +37,37 @@ __when checking google use igncognito mode__
  ### Testing Mobile Friendliness
 
  [Google](https://search.google.com/test/mobile-friendly)
- 
+
+ ## Crawl Budget
+
+ __Avoid duplicate pictures__
+
+ Use a /filter file for duplicates. Use robots.txt to avoid this folder
+
+ ## Choosing Domains 
+
+ * Dont use spammy on domains 
+ * '-' look spammy
+ * dont use .biz
+ * Small boost to having keyword in the domain (not worth it)
+
+ [https://www.spamhaus.org/statistics/tlds/](https://www.spamhaus.org/statistics/tlds/)
+
+ ## Setting up architecture 
+
+ * Keep similar content on same sub domains
+ * Keep important pages on the top level domain
+ * Google assumes the deeper into directories the file it is the less important it is
+ * Avoid random strings in URL
+ * Use pretty url 
+
+ ### Internal Strings
+
+* Use simple A links
+* Anchor text important
+* Use descriptive anchor tags
+
+## Key Words 
+
+### Choosing Keywords 
+
